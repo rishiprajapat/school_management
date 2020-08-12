@@ -1,0 +1,1 @@
+http://localhost/school_management/index.php/Authentication/loginForm
